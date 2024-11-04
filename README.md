@@ -48,7 +48,6 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharushasamarawickrama&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=tharushasamarawickrama&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
 <br>
 
 ## 🐍 A Snake Eating my Contributions Graph
@@ -56,3 +55,8 @@
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
+---
+Credits: [Tharusha Samarawickrama]([https://github.com/Aditya664](https://github.com/tharushasamarawickrama))
+
+Last Edited on: 11/04/2024
