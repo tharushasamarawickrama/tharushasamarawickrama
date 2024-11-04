@@ -3,6 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tharushasamarawickrama&label=Profile%20views&color=0e75b6&style=flat" alt="tharushasamarawickrama" /> </p>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+
+---
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
 - 📚 My school **Centrel College,Matara**
 
 - 🌱 I’m currently learning **Computer Science**
@@ -10,7 +17,7 @@
 - 👨‍💻 All of my projects are available at **this Accoount**
 
 - ⚡ Fun fact **TTV**
-
+<br>
 
 ## 💻 Tech Stack
 - Languages
@@ -30,7 +37,6 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/tharusha-samarawickrama-278069257/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-
 <a href = 'https://github.com/tharushasamarawickrama?tab=repositories'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
 
@@ -43,8 +49,10 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
-
 <br>
 
-
------
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
